@@ -23,5 +23,5 @@ _(More projects will be added here as I continue learning!)_
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Shuriya-Jayaseelaan/Python-Projects.git
+    git clone https://github.com/Void-Shuriya/Python-Projects.git
     ```
