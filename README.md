@@ -1,6 +1,5 @@
 # 🐍 Python Projects
 
-A collection of my Python practice projects.  
 Each project lives in its own folder with source code and a README explaining how it works.
 
 ---
